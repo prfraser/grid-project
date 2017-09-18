@@ -1,2 +1,2 @@
-# grid-project
-theodinproject.com
+CSS / JS Practice
+Grid mouseover color changing layout
